@@ -8,3 +8,4 @@ console.log(path.parse("D:/lvlTwo/learn-node/buit-in-modules.js"));
 
 //same as dirname but in this case we can join things like extra pathname
 console.log(path.join("D:/lvlTwo/learn-node/", "buit-in-modules.js"));
+console.log("something print here");
